@@ -1,0 +1,4 @@
+# java 17.0.7 path
+export JAVA_HOME=
+# scala 2.13.11 path
+export PATH=

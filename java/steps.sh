@@ -1,2 +1,2 @@
-javac -d . script.java;
-java HelloWorld;
+javac -d . Script.java;
+java Script;
