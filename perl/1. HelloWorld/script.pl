@@ -1,2 +1,2 @@
 use warnings;
-print("Hello World");
+print("Hello World\n");
